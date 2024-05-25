@@ -10,15 +10,15 @@ This was the time we were performing manual tests before releasing to production
 
 ![IMG-20170714-WA0002](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/700ce736-9dba-4524-b5d0-4cb604e9b352)
 
-###
+### CompactLogix from Allen-Bradley. 
 
 ![IMG-20170809-WA0004](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/9f9bd3c5-cab9-480c-87cf-0e1003ebb643)
 
-###
+### PanelView Plus from Allen-Bradley. 
 
-![IMG-20170819-WA0001](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/302ce674-401e-4dd8-b275-337826ae0e97)
+![imagen](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/69640ac9-d801-4370-bee3-a6a4474cad12)
 
-###
+### Assisted while elevator was transported. 
 
 ![IMG-20170819-WA0003](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/9c2df776-74cc-441f-bff1-c4d52d37ca19)
 
