@@ -14,6 +14,10 @@ This was the time we were performing manual tests before releasing to production
 
 ![IMG-20170809-WA0004](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/9f9bd3c5-cab9-480c-87cf-0e1003ebb643)
 
+### Control panel ready for installation. 
+
+![IMG-20170714-WA0001](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/de7cb0d8-5eca-48de-9eeb-bb284b750b0d)
+
 ### PanelView Plus from Allen-Bradley. 
 
 ![imagen](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/69640ac9-d801-4370-bee3-a6a4474cad12)
@@ -22,10 +26,6 @@ This was the time we were performing manual tests before releasing to production
 
 ![IMG-20170819-WA0003](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/9c2df776-74cc-441f-bff1-c4d52d37ca19)
 
-###
+### Successful operation of automatic machine for boxes arming. 
 
 ![IMG-20170829-WA0005](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/4d647da7-8e58-4cb1-8abe-cf34fd246fd0)
-
-###
-
-![IMG-20170714-WA0001](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/de7cb0d8-5eca-48de-9eeb-bb284b750b0d)
