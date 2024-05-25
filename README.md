@@ -29,4 +29,5 @@ This was the time we were performing manual tests before releasing to production
 
 ### Successful operation of automatic machine for boxes arming. 
 
-![IMG-20170829-WA0005](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/4d647da7-8e58-4cb1-8abe-cf34fd246fd0)
+![imagen](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/92f4e73b-5ade-4da3-bef1-32277b2ad228)
+
