@@ -22,10 +22,9 @@ This was the time we were performing manual tests before releasing to production
 
 ![imagen](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/69640ac9-d801-4370-bee3-a6a4474cad12)
 
-### Assisted while elevator was transported. 
+### Assisted while products elevator was transported. 
 
-![imagen](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/dc54548b-8efc-4486-8c67-3962c0c91f48)
-
+![IMG-20170819-WA0003](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/e8824cfd-690b-4989-9fd1-d0eabfdb5399)
 
 ### Successful operation of automatic machine for boxes arming. 
 
