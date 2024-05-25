@@ -1,5 +1,5 @@
 # Machines-for-Automatic-armed-of-Boxes
-An industry project to supervise and direct the construction of 24 automatic machines, programming and delivering in client's facilities. 
+An industry project to lead the construction of 24 automatic machines, while programming and delivering in client's facilities. 
 
 ### Integrated tests in client's facilities.
 This was the time we were performing manual tests before releasing to production.
