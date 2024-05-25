@@ -24,7 +24,8 @@ This was the time we were performing manual tests before releasing to production
 
 ### Assisted while elevator was transported. 
 
-![IMG-20170819-WA0003](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/9c2df776-74cc-441f-bff1-c4d52d37ca19)
+![imagen](https://github.com/Lechuga-Geronimo/Machine-for-Boxes-Arming/assets/142461885/dc54548b-8efc-4486-8c67-3962c0c91f48)
+
 
 ### Successful operation of automatic machine for boxes arming. 
 
